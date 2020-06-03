@@ -1,5 +1,5 @@
 # my-challenge-apps
-An index of apps repositories I created to challenge myself and learn new things.
+An index of apps I created to challenge myself and learn new things.
 
 * [Binary Converter](https://github.com/fmmendes-app-challenges/binary-converter) - A simple binary converter made with React Live at: [binary.fmmendes.com](https://binary.fmmendes.com)
 
